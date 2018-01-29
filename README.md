@@ -1,24 +1,5 @@
-# README
+# My Mongoid + Rails sandbox
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Trying to get good at Nosql
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+NoSql sounds great to me in theory, but I have such a hard time doing anything besides the most simple of projects with it.  This project is also there to help me learn more about Rails without ActiveRecord.
